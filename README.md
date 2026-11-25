@@ -1,4 +1,7 @@
 # TripLedger
+**Live app:** https://build-yash.github.io/TripLedger/
+
+Open the link on your phone, then use Add to Home Screen to install it.
 
 A lightweight, mobile-first web app for recording business trip expenses on the spot and producing a clean reimbursement report at the end of the trip.
 
